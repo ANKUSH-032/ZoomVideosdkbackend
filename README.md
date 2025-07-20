@@ -17,7 +17,7 @@ This project demonstrates how to implement **Zoom Video SDK** using **Zoom UI To
 1. **Clone the project**
 
    ```bash
-   git clone https://github.com/yourusername/zoom-video-sdk-integration.git
+   git clone https://github.com/ANKUSH-032/ZoomVideosdkbackend.git
    cd zoom-video-sdk-integration/backend
    ```
 
