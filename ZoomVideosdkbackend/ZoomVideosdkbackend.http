@@ -1,0 +1,6 @@
+@ZoomVideosdkbackend_HostAddress = http://localhost:5146
+
+GET {{ZoomVideosdkbackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
